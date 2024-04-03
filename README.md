@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Montreal Chinese Baptist Church's website]((private))
 
-- 🌱 I’m currently learning **Next.js, Node, GCP, Firebase, REST API**
+- 🌱 I’m currently learning **Node, GCP, Firebase, REST API, Twilio, Sendgrid, Stripe**
 
 - 👨‍💻 All of my projects are available at [https://github.com/orlololol](https://github.com/orlololol)
 
