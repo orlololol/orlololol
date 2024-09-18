@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/orlololol](https://github.com/orlololol)
 
-- ⚡ Fun fact **I am an dragonboat athlete!**
+- ⚡ Fun fact **I am a dragonboat athlete!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
