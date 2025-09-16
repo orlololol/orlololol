@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">A passionate web developper based in Montreal</h3>
+<h3 align="center">A passionate web developper based in Montreal, currently interning at Shopify</h3>
 
-- 🔭 I’m currently working on [Montreal Chinese Baptist Church's website]((private))
-
-- 🌱 I’m currently learning **Node, GCP, Firebase, REST API, Twilio, Sendgrid, Stripe**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/orlololol](https://github.com/orlololol)
 
 - ⚡ Fun fact **I am a dragonboat athlete!**
+
+Work accounts:
+- <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="20" height="20"/> https://github.com/shoplando
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
