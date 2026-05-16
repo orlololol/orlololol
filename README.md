@@ -9,6 +9,7 @@
 
 Work accounts:
 - <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="20" height="20"/> https://github.com/shoplando
+- <img src="https://logos.fandom.com/wiki/File:Wealthsimple_2015_Icon.svg" width="20" height="20"/> https://github.com/wealthlando
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
