@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">A passionate web developper based in Montreal, currently interning at Shopify</h3>
+<h3 align="center">Developper based in Montreal, currently interning at Wealthsimple</h3>
 
 - 🌱 I’m currently learning **Rust**
 
